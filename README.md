@@ -1,6 +1,6 @@
 # Remix Indie Stack (on Render)
 
-*This repository (and README) is based on Remix's [Indie Stack template](https://github.com/remix-run/indie-stack). It has been modified to be easily deployable to [Render](https://render.com).*
+_This repository (and README) is based on Remix's [Indie Stack template](https://github.com/remix-run/indie-stack). It has been modified to be easily deployable to [Render](https://render.com)._
 
 ![The Remix Indie Stack](https://repository-images.githubusercontent.com/465928257/a241fa49-bd4d-485a-a2a5-5cb8e4ee0abf)
 
@@ -63,7 +63,7 @@ This is a pretty simple note-taking app, but it's a good example of how you can 
 
 ## Deployment
 
-*It's free to deploy this example to Render, including a managed PostgreSQL database.*
+_It's free to deploy this example to Render, including a managed PostgreSQL database._
 
 1. Click the **Use this template** to create a copy of this repository in your GitHub account.
 2. In the [Render Dashboard](https://dashboard.render.com), click **New** --> **Blueprint** and select your copy of this repository. You may need to connect your GitHub account to Render if you haven't already done so.
